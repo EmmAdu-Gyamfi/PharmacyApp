@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848613056189",
+    "project_id": "gpharm-2ce1f",
+    "storage_bucket": "gpharm-2ce1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848613056189:android:1e46e0a0323170a1aa61d4",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy78r4gQSFzuvc4mTLKaki1vVlhBrn51U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
